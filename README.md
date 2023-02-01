@@ -16,4 +16,4 @@ In the data set I have got the a lot of null values in total bedrooms coloumn i 
 In ocean_proximity i have performed  the one hot encoding beacause the values in that area the strings so i have converted to the numeric values.
 
 #Uisng the Sklearn:-
-I have performed the train test split i have given 80% for training and 20% for testing and fited the model.i have used the "MULTIPLE LINEAR REGRESSION". And got the final accuracy as the 100%.
+I have performed the train test split i have given 80% for training and 20% for testing and fited the model.i have used the "MULTIPLE LINEAR REGRESSION". And got the final accuracy as the 62.5%.
